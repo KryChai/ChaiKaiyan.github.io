@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chai Kaiyan"
+description              : &description "Major Computer Science in Hebei University of Technology"
+url                      : https://krychai.github.io/ChaiKaiyan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,10 +25,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "China Tianjin"
+  employer         : "Hebei University of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chaikaiyan2003@126.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -48,6 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  wechat           : "wechat.app"
   bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
