@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Chai Kaiyan / Site Title"
 title_separator          : "-"
-name                     : &name "Chai Kaiyan"
-description              : &description "Major Computer Science in Hebei University of Technology"
+name                     : "Chai Kaiyan"
+description              : "For the future of the Computer Science!"
 url                      : https://krychai.github.io/ChaiKaiyan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Chai Kaiyan"
+  pronouns         : "he"  
+  bio              : "For the future of the Computer Science!"
   location         : "China Tianjin"
   employer         : "Hebei University of Technology"
-  uri              : # URL
+  uri              : https://krychai.github.io/ChaiKaiyan.github.io/# URL
   email            : "chaikaiyan2003@126.com" 
 
   # Academic websites
